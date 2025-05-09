@@ -1,0 +1,15 @@
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.exe
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.deps.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.runtimeconfig.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.AssemblyInfo.cs
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.sourcelink.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\refint\AboutMyEnvironment.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.genruntimeconfig.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net9.0\ref\AboutMyEnvironment.dll
