@@ -1,0 +1,14 @@
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.exe
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.deps.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.runtimeconfig.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfoInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfo.cs
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.csproj.CoreCompileInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\refint\HelloCS.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.genruntimeconfig.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\ref\HelloCS.dll
